@@ -1,0 +1,1 @@
+This is the react front end for the Automatic rice cooker 
